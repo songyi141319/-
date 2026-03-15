@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 大拜计数器",
+  "description": "An app that counts the number of times you perform a kowtow using your device\u0027s camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
